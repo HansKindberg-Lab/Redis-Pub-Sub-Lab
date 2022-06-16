@@ -1,0 +1,4 @@
+[*.cs]
+# Analysis suppressions
+dotnet_diagnostic.CA1707.severity = none
+dotnet_diagnostic.CA2007.severity = none

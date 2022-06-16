@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+		<AnalysisLevel>latest-all</AnalysisLevel>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<LangVersion>latest</LangVersion>
+		<Nullable>disable</Nullable>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	</PropertyGroup>
+</Project>
